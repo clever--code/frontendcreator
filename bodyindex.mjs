@@ -6,8 +6,8 @@ export default class BodyIndex extends HTMLElement {
         console.log('lad ad')
         shadow.innerHTML = `
         <a href='#a'>aqui tem um link  </a>   
-        <div>kkkkkbody aqui vai o bdy troquei a descrição ainda não entendo a mensagem</div>   
-        <a href='#b'>aqui vai outro link</a> 
+        <div>kkkkkbody aqui vai o bdy troquei a descrição ainda não entendo a mensagem poderia até ser uma maneira</div>   
+        <a href='#b'>aqui vai outro link</a>      
         `
 
 
